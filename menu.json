@@ -1,0 +1,37 @@
+[
+    {
+        "id": 1,
+        "nama": "Nasi Goreng",
+        "kategori": "Makanan",
+        "harga": 15000,
+        "tersedia": true
+    },
+    {
+        "id": 2,
+        "nama": "Es Teh",
+        "kategori": "Minuman",
+        "harga": 5000,
+        "tersedia": true
+    },
+    {
+        "id": 4,
+        "nama": "Ayam Katsu",
+        "kategori": "Makanan",
+        "harga": 12000,
+        "tersedia": true
+    },
+    {
+        "id": 5,
+        "nama": "Kopi Susu",
+        "kategori": "Minuman",
+        "harga": 5000,
+        "tersedia": true
+    },
+    {
+        "id": 6,
+        "nama": "Indomie Rendang",
+        "kategori": "Makanan",
+        "harga": 8000,
+        "tersedia": true
+    }
+]
