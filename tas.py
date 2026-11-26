@@ -189,7 +189,6 @@ def _nama_sudah_ada(daftar_menu, nama, abaikan_id=None):
     return nama.lower() in nama_terdaftar
 
 
-# ---------------------------------------------------------------- input
 def _input_nama(daftar_menu, nama_lama=None, abaikan_id=None):
     while True:
         if nama_lama is None:
@@ -242,7 +241,6 @@ def _pilih_id(daftar_menu, aksi):
     return item
 
 
-# ---------------------------------------------------------------- fitur
 def cetak_daftar_menu(daftar_menu):
     """Mencetak tabel menu (tanpa judul). Menampilkan pesan bila kosong."""
     if not daftar_menu:
